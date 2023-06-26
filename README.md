@@ -1,2 +1,1 @@
-# holbertonschool-low_level_programming
-Project: C
+LOW LEVEL PROGRAMMING
