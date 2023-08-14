@@ -10,4 +10,4 @@ mov eax,0
 int 0x80
 section .data
 msg:db 'Hello, World', 0xa
-lem:equ $ - msg
+len:equ $ - msg
