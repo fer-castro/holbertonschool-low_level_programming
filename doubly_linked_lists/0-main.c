@@ -3,14 +3,14 @@
 #include <stdio.h>
 #include "lists.h"
 /**
-* main - check the code
+* main - check the code for Holberton School students.
 * Return: Always EXIT_SUCCESS.
 **/
 int main(void)
 {
 dlistint_t *head;
 dlistint_t *new;
-dlistint_t hello = {8, NULL};
+dlistint_t hello = {8, NULL, NULL};
 size_t n;
 head = &hello;
 new = malloc(sizeof(dlistint_t));
